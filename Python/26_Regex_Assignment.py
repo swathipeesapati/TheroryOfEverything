@@ -1,3 +1,7 @@
+# In this assignment, we will read a file and extract all the numbers 
+# from it using regular expressions. 
+# We will then sum up all the numbers and print the total.
+
 import re
 
 handle = open(r"C:\Users\swath\Documents\test.txt.txt")

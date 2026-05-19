@@ -1,3 +1,8 @@
+# In this code snippet, we are working with files in Python. 
+# We will open a file, read its contents line by line, and count the number of 
+# lines in the file. We will also handle exceptions that may occur when trying 
+# to open a file that does not exist.
+
 fhand = open('C:\\Users\\swath\\Documents\\Career\\Python\\sample_text.txt')
 count = 0
 for line in fhand:

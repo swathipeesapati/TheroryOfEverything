@@ -1,3 +1,8 @@
+# In this code snippet, we are working with conditional statements in Python.
+# We will prompt the user to input a score, check if the score is within a valid
+# range, and then determine the corresponding grade based on the score using 
+# if-elif-else statements.
+
 score = float(input("Enter Score: "))
 if score >= 0.0 and score <= 1.0:
     if score >= 0.9:

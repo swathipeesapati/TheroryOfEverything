@@ -1,3 +1,5 @@
+# In this code snippet, we are demonstrating the use of loops in Python.
+
 # while loop (indefinite loop)
 n=5
 while n>0:

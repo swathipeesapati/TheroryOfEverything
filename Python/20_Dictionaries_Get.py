@@ -1,3 +1,7 @@
+#Get method is used to retrieve the value for a given key from a dictionary.
+# If the key is not found in the dictionary, it returns a default value 
+# (which is 0 in this case) instead of raising a KeyError.
+
 counts = dict()
 names = ['swa','thi','Amar','Swa','thi']
 for name in names:

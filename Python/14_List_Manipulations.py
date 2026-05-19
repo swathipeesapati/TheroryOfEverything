@@ -1,3 +1,8 @@
+# In this code snippet, we are performing various list manipulations in Python.
+# We will concatenate two lists, slice a list, append an element to a list, 
+# check for the presence of an element in a list, and calculate the average 
+# of a list of numbers.
+
 list_1 = ['a', 'b', 'c']
 list_2 = ['d', 'a', 'f']
 

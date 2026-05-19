@@ -1,3 +1,7 @@
+# In this code snippet, we are reading a file and extracting the email addresses
+# from lines that start with "From". We will then print the email addresses and
+# the total count.
+
 fname = input("Enter file name: ")
 if len(fname) < 1:
     fname = "mbox-short.txt"

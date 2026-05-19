@@ -1,3 +1,7 @@
+# A dictionary in Python is a collection of key-value pairs.
+# Each key is unique and maps to a value.
+# In this code snippet, we are creating a dictionary called 'my_dict' and adding some key-value pairs to it. 
+# We then print the dictionary, retrieve a value using a key, update a value, and check for the presence of keys in the dictionary.
 my_dict = dict()
 my_dict['a'] = 1
 my_dict['b'] = 3
